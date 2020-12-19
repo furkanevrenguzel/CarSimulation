@@ -1,2 +1,6 @@
 # CarSimulation
-Summer Intern Project
+Intern Project at HAVELSAN A.S.
+The subject of my internship was to design a car simulation in Unity, one of the most preferred game engines. I coded this simulation in the C# language. Today, computer simulations are actively used in fields such as economics, biology, psychology, and medicine, as well as many engineering projects. Thanks to the computer simulators developed, many experiments, tests, and training are carried out cheaply, quickly, and without endangering any human life.
+My goal during my internship was to learn this software and game engine in the best way. I did not doubt that these platforms would improve me technically and imaginatively. I knew it was one of the most popular types of software in the software industry. I continued my internship in line with my goals and goals. With the support of my efforts and my internship place, I learned a lot about the program. I researched simulation technologies. I coded the processes of adding tracks and obstacles to the simulation, providing mobility to the vehicle, suspension, camera tracking, perspective adjustment, adding wheel tracks, engine sound, falling sound, and rolling sound to the vehicle.
+As a result, I learned general knowledge and developed a car simulation by researching simulation and game programming, coding, visual field operations.
+
